@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="yocot" fetch="git://git.yoctoproject.org" />
+    <remote name="yocto" fetch="git://git.yoctoproject.org" />
     <remote name="openembedded" fetch="git://git.git.openmebedded.org" />
     <remote name="git_itsmanjeet" fetch="https://github.com/itsmanjeet" />
 
